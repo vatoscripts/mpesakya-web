@@ -1,0 +1,8 @@
+{
+    "editor.wordWrapColumn": 1000,
+    "html.format.wrapLineLength": 0,
+    "html.format.enable": false,
+    "prettier.printWidth": 500,
+    "html.format.wrapAttributes": "preserve",
+    "prettier.tabWidth": 4
+}
